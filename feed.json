@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "VibE",
+    "description": "",
+    "home_page_url": "https://vibe04.github.io/gh-pages",
+    "feed_url": "https://vibe04.github.io/gh-pages/feed.json",
+    "user_comment": "",
+    "icon": "https://vibe04.github.io/gh-pages/media/website/vibe-logo1.png",
+    "author": {
+        "name": "Vibe"
+    },
+    "items": [
+        {
+            "id": "https://vibe04.github.io/gh-pages/minecraft-11640.html",
+            "url": "https://vibe04.github.io/gh-pages/minecraft-11640.html",
+            "title": "Minecraft 1.16.40",
+            "summary": "<figure class=\"post__image post__image--left\"><img loading=\"lazy\"  src=\"https://vibe04.github.io/gh-pages/media/posts/2/62150766ab654fa8214758dc7ff87c0e-FILEminimizer-3.jpg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://vibe04.github.io/gh-pages/media/posts/2/responsive/62150766ab654fa8214758dc7ff87c0e-FILEminimizer-3-xs.jpg 300w ,https://vibe04.github.io/gh-pages/media/posts/2/responsive/62150766ab654fa8214758dc7ff87c0e-FILEminimizer-3-sm.jpg 480w ,https://vibe04.github.io/gh-pages/media/posts/2/responsive/62150766ab654fa8214758dc7ff87c0e-FILEminimizer-3-md.jpg 768w ,https://vibe04.github.io/gh-pages/media/posts/2/responsive/62150766ab654fa8214758dc7ff87c0e-FILEminimizer-3-lg.jpg 1024w ,https://vibe04.github.io/gh-pages/media/posts/2/responsive/62150766ab654fa8214758dc7ff87c0e-FILEminimizer-3-xl.jpg 1360w ,https://vibe04.github.io/gh-pages/media/posts/2/responsive/62150766ab654fa8214758dc7ff87c0e-FILEminimizer-3-2xl.jpg 1600w\"  alt=\"\" width=\"181\" height=\"168\"></figure>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p>Minecraft PE 1.16.40 full version you can download here. In this release Mojang fixed 4 important bugs for different platforms:</p>\n",
+            "content_html": "<figure class=\"post__image post__image--left\"><img loading=\"lazy\"  src=\"https://vibe04.github.io/gh-pages/media/posts/2/62150766ab654fa8214758dc7ff87c0e-FILEminimizer-3.jpg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://vibe04.github.io/gh-pages/media/posts/2/responsive/62150766ab654fa8214758dc7ff87c0e-FILEminimizer-3-xs.jpg 300w ,https://vibe04.github.io/gh-pages/media/posts/2/responsive/62150766ab654fa8214758dc7ff87c0e-FILEminimizer-3-sm.jpg 480w ,https://vibe04.github.io/gh-pages/media/posts/2/responsive/62150766ab654fa8214758dc7ff87c0e-FILEminimizer-3-md.jpg 768w ,https://vibe04.github.io/gh-pages/media/posts/2/responsive/62150766ab654fa8214758dc7ff87c0e-FILEminimizer-3-lg.jpg 1024w ,https://vibe04.github.io/gh-pages/media/posts/2/responsive/62150766ab654fa8214758dc7ff87c0e-FILEminimizer-3-xl.jpg 1360w ,https://vibe04.github.io/gh-pages/media/posts/2/responsive/62150766ab654fa8214758dc7ff87c0e-FILEminimizer-3-2xl.jpg 1600w\"  alt=\"\" width=\"181\" height=\"168\"></figure>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p>Minecraft PE 1.16.40 full version you can download here. In this release Mojang fixed 4 important bugs for different platforms:</p>\n\n<p> </p>",
+            "author": {
+                "name": "Vibe"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-09-28T12:52:37+05:30",
+            "date_modified": "2020-09-28T12:52:37+05:30"
+        }
+    ]
+}
